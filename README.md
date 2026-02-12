@@ -1,7 +1,7 @@
 # Calibrated Risks Estimated using Focal Loss and GBDT 
 Jupyter notebooks with Python code for the paper "Estimating Calibrated Risks Using Focal Loss and Gradient-Boosted Trees for Clinical Risk Prediction": https://www.mdpi.com/2079-9292/14/9/1838
 
-All_Model_Comparisons_Paper_Loop_10Y.ipynb: code for comparing GBDT models and all benchmark models. The task is to predict the 10-year risk (probability) of PTLD.
+All_Model_Comparisons_Paper_Loop_10Y.ipynb: code for comparing GBDT models and all benchmark models. The task is to predict the 10-year risk (probability) of post-transplant lymphoproliferative disorder (PTLD).
 
 All_Model_Comparisons_Paper_Loop_Diabetes_JBI.ipynb: code for comparing GBDT models and all benchmark models. The task is to predict the risk (probability) of diabetes based on the following dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
